@@ -1,14 +1,15 @@
 +++
 # People widget.
 widget = "people"
+headless = true
 active = true
-date = "2020-11-20T00:00:00"
-
-title = "People"
-subtitle = ""
 
 # Order that this section will appear in.
-weight = 6
+weight = 60
+
+title = "People"
+subtitle = 
+
 
 # Content.
 # Display content from the following folder.
@@ -19,30 +20,20 @@ folder = "people"
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
 view = 1
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# The "Current" shows current members
-#[[filter]]
- # name = "Current"
-  #tag = ".white-lab, .ernest-lab"
-
-#[[filter]]
- # name = "White Lab"
-  #tag = ".white-lab"
-
-#[[filter]]
- # name = "Ernest Lab"
-  #tag = ".ernest-lab"
-
-#[[filter]]
- # name = "Alumni"
-  #tag = ".alumni"
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+  [advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 
 +++
