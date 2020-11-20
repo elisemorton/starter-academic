@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -97,7 +97,7 @@ address = {street = "285 Madison Ave", city = "Madison", region = "NJ", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-74.432976", longitude = "44.778193"}
+coordinates = {latitude = "40.778183", longitude = "-74.432972"}
 
 # Directions for visitors to locate you.
 directions = "West Cottage, 2nd Floor, Room 10"
@@ -200,7 +200,7 @@ plugins_js  = []
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 3
   talk_view = 2
 
 ############################
