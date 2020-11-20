@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elise MOrton
+title: Elise Morton
 
 # Is this the primary user of the site?
 superuser: true
