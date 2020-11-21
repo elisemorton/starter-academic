@@ -8,7 +8,7 @@ active = true
 weight = 60
 
 title = "People"
-subtitle = 
+subtitle = ""
 
 
 # Content.
