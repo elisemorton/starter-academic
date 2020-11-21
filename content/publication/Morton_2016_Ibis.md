@@ -1,6 +1,6 @@
 +++
 title = "Territory occupancy and breeding success of Peregrine Falcons Falco peregrinus at various stages of population recovery"
-date = "2017-04-01"
+date = "2017-04-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael J McGrady", "James E Hines", "Chris J Rollie", "George D Smith", "Elise R Morton", "Jennifer F Moore", "Richard M Mearns", "Ian Newton", "Oscar E Murillo‐García", "Madan K Oli"]
