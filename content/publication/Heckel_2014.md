@@ -1,6 +1,6 @@
 +++
 title = "Agrobacterium tumefaciens exoR controls acid response genes and impacts exopolysaccharide synthesis, horizontal gene transfer, and virulence gene expression"
-date = "2014-09-15"
+date = "2014-09-15T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brynn C Heckel", "Amelia D Tomlinson", "Elise R Morton", "Jeong-Hyeon Choi", "Clay Fuqua"]
