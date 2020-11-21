@@ -1,6 +1,6 @@
 +++
 title = "Laboratory Maintenance of Agrobacterium"
-date = "2012-02-01"
+date = "2012-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elise R Morton", "Clay Fuqua"]
