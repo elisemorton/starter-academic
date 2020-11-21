@@ -1,6 +1,6 @@
 +++
 title = "Dispersal: a matter of scale"
-date = "2018-04-01"
+date = "2018-04-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elise R Morton", "Michael J McGrady", "Ian Newton", "Chris J Rollie", "George D Smith", "Richard Mearns", "Madan K Oli"]
