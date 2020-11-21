@@ -1,6 +1,6 @@
 +++
 title = "Microbial population and community dynamics on plant roots and their feedbacks on plant communities"
-date = "2012-06-20"
+date = "2012-06-20T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["James D. Bever", "Thomas G. Platt", "Elise R. Morton"]
