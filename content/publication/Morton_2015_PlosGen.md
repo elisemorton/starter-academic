@@ -1,6 +1,6 @@
 +++
 title = "Variation in Rural African Gut Microbiota Is Strongly Correlated with Colonization by Entamoeba and Subsistence"
-date = "2015-11-30"
+date = "2015-11-30T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elise R Morton", "Joshua Lynch", "Alain Froment", "Sophie Lafosse", "Evelyne Heyer", "Molly Przeworski", "Ran Blekhman", "Laure Segurel"]
