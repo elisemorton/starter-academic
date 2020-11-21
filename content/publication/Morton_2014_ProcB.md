@@ -1,6 +1,6 @@
 +++
 title = "Non-additive costs and interactions alter the competitive dynamics of co-occurring ecologically distinct plasmids"
-date = "2014-03-22"
+date = "2014-03-22T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elise R Morton", "Thomas G Platt", "Clay Fuqua", "James D Bever"]
