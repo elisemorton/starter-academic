@@ -1,14 +1,9 @@
 +++
 # People widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
-
-title = "People"
-
-# Order that this section will appear in.
-weight = 60
+weight = 60  # Order that this section will appear.
 
 title = "People"
 subtitle = ""
