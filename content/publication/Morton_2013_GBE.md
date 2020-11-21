@@ -1,6 +1,6 @@
 +++
 title = "Large Deletions in the pAtC58 Megaplasmid of Agrobacterium tumefaciens Can Confer Reduced Carriage Cost and Increased Expression of Virulence Genes"
-date = "2013-07-01"
+date = "2013-07-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elise R Morton", "Peter M Merritt", "James D Bever", "Clay Fuqua"]
