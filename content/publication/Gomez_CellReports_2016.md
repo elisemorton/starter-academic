@@ -1,6 +1,6 @@
 +++
 title = "Gut microbiome of coexisting BaAka Pygmies and Bantu reflects gradients of traditional subsistence patterns"
-date = "2016-03/08"
+date = "2016-03-08T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andres Gomez", "Klara J Petrzelkova", "Michael B Burns", "Carl J Yeoman", "Katherine R Amato", "Klara Vlckova", "David Modry", "Angelique Todd", "Carolyn A Jost Robinson", "Melissa J Remis", "Manolito G Torralba", "Elise Morton", "Juan D Umaña", "Franck Carbonero", "H Rex Gaskins", "Karen E Nelson", "Brenda A Wilson", "Rebecca M Stumpf", "Bryan A White", "Steven R Leigh", "Ran Blekhman"]
