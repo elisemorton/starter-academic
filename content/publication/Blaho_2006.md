@@ -1,6 +1,6 @@
 +++
 title = "Herpes simplex virus: propagation, quantification, and storage"
-date = "2006-02-01"
+date = "2006-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["John A Blaho", "Elise R Morton", "Jamie C Yedowitz"]
